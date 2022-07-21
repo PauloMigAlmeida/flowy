@@ -1,0 +1,19 @@
+{
+  "name": "flowy",
+  "version": "1.0.0",
+  "description": "The minimal javascript library to create flowcharts ✨",
+  "main": "flowy.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloMigAlmeida/flowy.git"
+  },
+  "author": "Alyssa X",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PauloMigAlmeida/flowy/issues"
+  },
+  "homepage": "https://github.com/PauloMigAlmeida/flowy#readme"
+}
